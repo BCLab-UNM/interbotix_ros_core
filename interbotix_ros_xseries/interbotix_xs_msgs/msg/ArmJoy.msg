@@ -35,6 +35,8 @@ int8 GRIPPER_GRASP = 14
 # Pose Control
 int8 HOME_POSE = 15
 int8 SLEEP_POSE = 16
+int8 START_LIFT = 25
+int8 LIFT = 26
 
 #########################################################################################################
 
